@@ -1,0 +1,316 @@
+INFO 2024-11-03 00:11:43,007 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:12:33,172 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:12:35,596 urls 27 info
+INFO 2024-11-03 00:12:35,673 basehttp 213 "GET / HTTP/1.1" 200 4
+INFO 2024-11-03 00:20:52,333 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\settings.py changed, reloading.
+INFO 2024-11-03 00:20:53,418 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:22:01,971 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\settings.py changed, reloading.
+INFO 2024-11-03 00:22:02,788 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:22:12,612 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\settings.py changed, reloading.
+INFO 2024-11-03 00:22:13,498 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:22:48,125 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:22:49,496 urls 27 info
+INFO 2024-11-03 00:22:49,498 basehttp 213 "GET / HTTP/1.1" 200 4
+WARNING 2024-11-03 00:23:15,554 basehttp 213 "GET /static/index.html HTTP/1.1" 404 1844
+WARNING 2024-11-03 00:25:35,605 basehttp 213 "GET /static/index.html HTTP/1.1" 404 1844
+INFO 2024-11-03 00:31:19,185 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:31:22,614 urls 27 info
+INFO 2024-11-03 00:31:22,615 basehttp 213 "GET / HTTP/1.1" 200 4
+INFO 2024-11-03 00:31:40,114 basehttp 213 "GET /static/index.html HTTP/1.1" 200 12002
+INFO 2024-11-03 00:31:40,130 basehttp 213 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2024-11-03 00:31:40,136 basehttp 213 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2024-11-03 00:31:40,143 basehttp 213 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2024-11-03 00:31:40,145 basehttp 213 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2024-11-03 00:31:40,146 basehttp 213 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2024-11-03 00:31:40,147 basehttp 213 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2024-11-03 00:31:40,150 basehttp 213 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2024-11-03 00:31:40,151 basehttp 213 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2024-11-03 00:31:40,155 basehttp 213 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2024-11-03 00:31:40,168 basehttp 213 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2024-11-03 00:31:40,168 basehttp 213 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2024-11-03 00:31:40,171 basehttp 213 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2024-11-03 00:34:57,876 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\settings.py changed, reloading.
+INFO 2024-11-03 00:34:58,720 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:35:28,712 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\settings.py changed, reloading.
+INFO 2024-11-03 00:35:29,463 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:37:05,168 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\settings.py changed, reloading.
+INFO 2024-11-03 00:37:05,880 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:44:15,540 urls 27 info
+INFO 2024-11-03 00:44:15,542 basehttp 213 "GET / HTTP/1.1" 200 4
+WARNING 2024-11-03 00:44:48,013 log 248 Not Found: /register
+WARNING 2024-11-03 00:44:48,014 basehttp 213 "GET /register HTTP/1.1" 404 2339
+INFO 2024-11-03 00:46:30,591 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\urls.py changed, reloading.
+INFO 2024-11-03 00:46:31,458 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:46:41,074 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\urls.py changed, reloading.
+INFO 2024-11-03 00:46:41,969 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:47:40,291 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\urls.py changed, reloading.
+INFO 2024-11-03 00:47:41,159 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:48:13,179 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\urls.py changed, reloading.
+INFO 2024-11-03 00:48:14,041 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:49:09,692 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\urls.py changed, reloading.
+INFO 2024-11-03 00:49:10,315 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:50:30,506 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\urls.py changed, reloading.
+INFO 2024-11-03 00:50:31,298 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 00:51:23,022 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-11-03 00:51:24,678 log 248 Not Found: /
+WARNING 2024-11-03 00:51:24,728 basehttp 213 "GET / HTTP/1.1" 404 2413
+INFO 2024-11-03 00:51:44,108 basehttp 213 "GET /register HTTP/1.1" 301 0
+INFO 2024-11-03 00:51:44,125 basehttp 213 "GET /register/ HTTP/1.1" 200 5131
+WARNING 2024-11-03 00:51:44,149 log 248 Not Found: /register/bootstrap/css/bootstrap.min.css
+WARNING 2024-11-03 00:51:44,153 log 248 Not Found: /register/js/vue-2.5.16.js
+WARNING 2024-11-03 00:51:44,158 log 248 Not Found: /register/js/axios-0.18.0.min.js
+WARNING 2024-11-03 00:51:44,158 basehttp 213 "GET /register/bootstrap/css/bootstrap.min.css HTTP/1.1" 404 2551
+WARNING 2024-11-03 00:51:44,159 basehttp 213 "GET /register/js/vue-2.5.16.js HTTP/1.1" 404 2506
+WARNING 2024-11-03 00:51:44,160 basehttp 213 "GET /register/js/axios-0.18.0.min.js HTTP/1.1" 404 2524
+WARNING 2024-11-03 00:51:44,168 log 248 Not Found: /register/js/host.js
+WARNING 2024-11-03 00:51:44,171 log 248 Not Found: /register/img/image_code.png
+WARNING 2024-11-03 00:51:44,175 log 248 Not Found: /register/js/common.js
+WARNING 2024-11-03 00:51:44,178 log 248 Not Found: /register/js/register.js
+WARNING 2024-11-03 00:51:44,178 basehttp 213 "GET /register/js/host.js HTTP/1.1" 404 2488
+WARNING 2024-11-03 00:51:44,179 basehttp 213 "GET /register/img/image_code.png HTTP/1.1" 404 2512
+WARNING 2024-11-03 00:51:44,179 basehttp 213 "GET /register/js/common.js HTTP/1.1" 404 2494
+WARNING 2024-11-03 00:51:44,180 basehttp 213 "GET /register/js/register.js HTTP/1.1" 404 2500
+INFO 2024-11-03 01:00:31,820 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-11-03 01:00:33,057 log 248 Not Found: /
+WARNING 2024-11-03 01:00:33,058 basehttp 213 "GET / HTTP/1.1" 404 2413
+ERROR 2024-11-03 01:00:40,582 log 248 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1035, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\users\views.py", line 12, in get
+    return render(request,'register.html')
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1097, in load
+    lib = find_library(parser, name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1037, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2024-11-03 01:00:40,586 basehttp 213 "GET /register/ HTTP/1.1" 500 172837
+ERROR 2024-11-03 01:01:29,208 log 248 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1035, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\users\views.py", line 12, in get
+    return render(request,'register.html')
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1097, in load
+    lib = find_library(parser, name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1037, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2024-11-03 01:01:29,210 basehttp 213 "GET /register/ HTTP/1.1" 500 175668
+ERROR 2024-11-03 01:01:32,530 log 248 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1035, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\users\views.py", line 12, in get
+    return render(request,'register.html')
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1097, in load
+    lib = find_library(parser, name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1037, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2024-11-03 01:01:32,532 basehttp 213 "GET /register/ HTTP/1.1" 500 175668
+ERROR 2024-11-03 01:01:37,788 log 248 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1035, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\lqt\Desktop\vow\vow\users\views.py", line 12, in get
+    return render(request,'register.html')
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1097, in load
+    lib = find_library(parser, name)
+  File "C:\Users\lqt\Desktop\vow\vow\venv\lib\site-packages\django\template\defaulttags.py", line 1037, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2024-11-03 01:01:37,790 basehttp 213 "GET /register/ HTTP/1.1" 500 175668
+INFO 2024-11-03 01:07:22,715 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-11-03 01:07:24,661 log 248 Not Found: /
+WARNING 2024-11-03 01:07:24,661 basehttp 213 "GET / HTTP/1.1" 404 2413
+INFO 2024-11-03 01:10:14,877 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\urls.py changed, reloading.
+INFO 2024-11-03 01:10:15,555 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-11-03 01:12:04,097 log 248 Not Found: /
+WARNING 2024-11-03 01:12:04,097 basehttp 213 "GET / HTTP/1.1" 404 2413
+INFO 2024-11-03 01:16:45,593 autoreload 266 C:\Users\lqt\Desktop\vow\vow\vow\urls.py changed, reloading.
+INFO 2024-11-03 01:16:46,696 autoreload 668 Watching for file changes with StatReloader
